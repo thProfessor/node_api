@@ -1,6 +1,6 @@
-## Source code for the Udemy Course
+## Node Api CRUD 
 
-### [React Node Social Network from Scratch to Deployment ](https://www.udemy.com/node-react/?couponCode=GITHUB)
+### Advanced Features like pagination role like unlike follow unfollow cookie based auth using jwt 
 
 ### To run this project, do the following:
 
